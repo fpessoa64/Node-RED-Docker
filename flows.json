@@ -50,22 +50,5 @@
         "x": 510,
         "y": 200,
         "wires": []
-    },
-    {
-        "id": "3cce38abba84358a",
-        "type": "split",
-        "z": "3af82246.3634ae",
-        "name": "",
-        "splt": "\\n",
-        "spltType": "str",
-        "arraySplt": 1,
-        "arraySpltType": "len",
-        "stream": false,
-        "addname": "",
-        "x": 460,
-        "y": 300,
-        "wires": [
-            []
-        ]
     }
 ]
