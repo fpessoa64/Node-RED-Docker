@@ -51,5 +51,18 @@
         "x": 500,
         "y": 220,
         "wires": []
+    },
+    {
+        "id": "78bc69d71bd1363a",
+        "type": "complete",
+        "z": "3af82246.3634ae",
+        "name": "",
+        "scope": [],
+        "uncaught": false,
+        "x": 300,
+        "y": 280,
+        "wires": [
+            []
+        ]
     }
 ]
